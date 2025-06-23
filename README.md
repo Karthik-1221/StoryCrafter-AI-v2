@@ -1,10 +1,10 @@
-# 📝 StoryCrafter AI
+#  StoryCrafter AI
 
 StoryCrafter AI is a creative web application that transforms your ideas or images into emotionally rich stories. It leverages ensemble NLP models to generate, score, and refine narratives across dramatic, humorous, or poetic tones.
 
 ---
 
-## 🔍 Features
+##  Features
 
 - **Image Captioning**: Extracts meaningful descriptions from uploaded images using BLIP.
 - **Multi-Model Story Generation**: Generates stories using GPT-2, GPT-2 Medium, and GPT-Neo.
@@ -15,7 +15,7 @@ StoryCrafter AI is a creative web application that transforms your ideas or imag
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
 ### 1. Clone the repository:
 ```bash
