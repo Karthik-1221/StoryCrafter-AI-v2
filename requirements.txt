@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+Pillow
+gTTS
+textstat
+scikit-learn
+sentencepiece
+numpy
+
