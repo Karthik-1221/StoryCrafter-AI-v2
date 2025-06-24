@@ -1,39 +1,9 @@
-# Core packages
-streamlit==1.46.0
-Pillow==11.2.1
-gtts==2.5.4
-textstat==0.7.7
-numpy==2.3.1
-pandas==2.3.0
-scikit-learn==1.7.0
-scipy==1.16.0
-matplotlib==3.8.4
-
-# Transformers and NLP
-transformers==4.38.2
-sentencepiece==0.2.0
-tokenizers==0.21.1
-
-# BLIP image captioning (optional but recommended)
-torch==2.7.1
-accelerate==0.30.1
-safetensors==0.5.3
-huggingface-hub==0.33.0
-
-# Optional utilities for Git/streamlit support
-gitpython==3.1.44
-watchdog==6.0.0
-pyyaml==6.0.2
-
-# Streamlit audio dependencies
-pydeck==0.9.1
-altair==5.5.0
-
-# TTS language support
-pyphen==0.17.2
-
-# Misc (for future compatibility/stability)
-requests==2.32.4
-tqdm==4.67.1
-tenacity==9.1.2
-protobuf==6.31.1
+streamlit
+transformers
+torch
+Pillow
+gTTS
+textstat
+scikit-learn
+sentencepiece
+numpy
